@@ -15,20 +15,19 @@ import IndexSectionBlog19 from '../components/blog/IndexSectionBlog19';
 import IndexSectionCta20 from '../components/cta/IndexSectionCta20';
 import IndexSectionFooter13 from '../components/footer/IndexSectionFooter13';
 
-const meta = {
-  title: '',
-  meta: [],
-  link: [],
-  style: [],
-  script: [],
-};
+// const meta = {
+//   title: '',
+//   meta: [],
+//   link: [],
+//   style: [],
+//   script: [],
+// };
 
 export default function Index() {
+
   return (
     <React.Fragment>
-      <HelmetProvider>
-        <Helmet {...meta}></Helmet>
-      </HelmetProvider>
+
       <IndexSectionHeaders1 />
       <IndexSectionCta18 />
       <IndexSectionFeatures2 />

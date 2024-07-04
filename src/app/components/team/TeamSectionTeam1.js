@@ -56,7 +56,7 @@ export default function TeamSectionTeam1() {
                 </div>
                 <div className="w-full md:w-1/2 lg:w-1/4 px-4 mb-8">
                   <div className="relative flex items-end h-87 px-6 pt-6 pb-7 mb-8 rounded-3xl overflow-hidden">
-                    <img className="absolute top-0 left-0 w-full h-full object-cover" src="casper-assets/team/people-photos-2.png" alt />
+                    <img className="absolute top-0 left-0 w-full h-full object-cover" src="assets/casper-assets/team/people-photos-2.png" alt />
                     <div className="absolute bottom-0 left-0 w-full h-32 bg-gradient-to-t from-black to-transparent" />
                     <div className="relative">
                       <span className="block text-xl text-white font-medium">Bessie Cooper</span>
@@ -66,7 +66,7 @@ export default function TeamSectionTeam1() {
                 </div>
                 <div className="w-full md:w-1/2 lg:w-1/4 px-4 mb-8">
                   <div className="relative flex items-end h-87 px-6 pt-6 pb-7 mb-8 rounded-3xl overflow-hidden">
-                    <img className="absolute top-0 left-0 w-full h-full object-cover" src="casper-assets/team/people-photos-4.png" alt />
+                    <img className="absolute top-0 left-0 w-full h-full object-cover" src="/assets/casper-assets/team/people-photos-4.png" alt />
                     <div className="absolute bottom-0 left-0 w-full h-32 bg-gradient-to-t from-black to-transparent" />
                     <div className="relative">
                       <span className="block text-xl text-white font-medium">Ralph Edwards</span>

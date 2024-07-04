@@ -1,19 +1,20 @@
 ---
-title: "Preview Mode for Static Generation"
+title: "How Can a Graphic Design Company in Denver Unlock the Power of AI in Graphic Design?"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2022-04-16T05:35:07.322Z"
 author:
-  name: Joe Haddad
+  name: Suman
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/casper-assets/blog/blog-5-article3.png"
 ---
+ # How Can a Graphic Design Company in Denver Unlock the Power of AI in Graphic Design?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Artificial Intelligence (AI) has made its presence felt in different fields, and graphic design is no different. A modern graphic design company in Denver often leverages artificial intelligence (AI) in various ways to enhance and streamline the graphic design process so that you can get designs with a bigger impact by utilizing lesser resources. This helps you to save on costs in both the short and long run.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+####  Here are some of the ways AI is commonly utilized in professional graphic design services in Denver
 
-## Lorem Ipsum
+## Automated Design Generation
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Creating inspired designs takes time, and effort. AI makes it easy to create basic designs or layouts based on the inputs that you provide to the system. This can be particularly useful for creating templates or initial drafts, saving designers time and providing inspiration. It also helps to reduce the time to deliver designs and meet strict deadlines.

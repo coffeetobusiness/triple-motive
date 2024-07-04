@@ -5,8 +5,8 @@ export default function IndexSectionTeam12() {
     <React.Fragment>
       <>
         <section className="relative py-12 md:py-24 lg:pt-32 bg-body overflow-hidden">
-          <img className="absolute bottom-0 right-0" src="casper-assets/team/lines-circle.svg" alt />
-          <img className="hidden md:block absolute top-0 right-0 md:mr-20 xl:mr-48 mt-24 animate-spinStar" src="casper-assets/team/blink-star.png" alt />
+          <img className="absolute bottom-0 right-0" src="assets/casper-assets/team/lines-circle.svg" alt />
+          <img className="hidden md:block absolute top-0 right-0 md:mr-20 xl:mr-48 mt-24 animate-spinStar" src="assets/casper-assets/team/blink-star.png" alt />
           <div className="relative container mx-auto px-4">
             <div className="absolute top-0 left-0 xl:ml-40 w-160 h-160 bg-gradient-to-t from-purple-700 to-darkBlue-900 rounded-full filter blur-4xl" />
             <div className="absolute top-0 right-0 xl:mr-40 w-148 h-148 bg-gradient-to-t from-violet-900 to-darkBlue-900 rounded-full filter blur-4xl" />
