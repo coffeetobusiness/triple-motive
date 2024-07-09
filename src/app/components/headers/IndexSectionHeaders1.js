@@ -27,7 +27,7 @@ export default function IndexSectionHeaders1() {
             </div>
           </nav>
           <div className="absolute top-0 right-0 w-160 h-160 bg-gradient-to-t from-violet-900 to-darkBlue-900 rounded-full filter blur-4xl" />
-          <img className="absolute top-0 right-0" src="casper-assets/headers/circle-double-element-dark.svg" alt />
+          <img className="absolute top-0 right-0" src="assets/casper-assets/headers/circle-double-element-dark.svg" alt />
           <div className="relative pt-36">
             <div className="relative z-10 container mx-auto px-4">
               <div className="relative z-10 max-w-3xl mx-auto text-center">

@@ -27,7 +27,7 @@ export default function IndexSectionTestimonials11() {
         <section className="relative bg-body overflow-hidden">
           <div className="py-12 md:pt-24 pb-40 md:pb-52">
             <div className="relative container mx-auto px-4">
-              <Image className="absolute top-0 right-0 -mt-8 lg:mr-40 animate-spinStar" src={require('@/assets/casper-assets/testimonials/blink-star.png')} alt />
+              <Image className="absolute top-0 right-0 -mt-8 lg:mr-40    duration-200" src={require('@/assets/casper-assets/testimonials/blink-star.png')} alt />
               <div className="flex flex-wrap items-center -mx-4">
                 <div className="w-full lg:w-3/5 xl:w-1/2 px-4 mb-16 lg:mb-0">
                   <div className="max-w-xl">
@@ -56,7 +56,7 @@ export default function IndexSectionTestimonials11() {
               </div>
             </div>
           </div>
-          <div className="relative py-12 h-full lg:h-80">
+          <div className="relative py-12 h-full lg:h-[390px] ">
             <Image className="absolute top-0 left-0 w-full h-full" src={require('@/assets/casper-assets/testimonials/gradient-background.png')} alt />
             <div className="relative container mx-auto px-4">
               <div className="flex flex-wrap -mx-4 -mt-40 lg:-mt-48">
